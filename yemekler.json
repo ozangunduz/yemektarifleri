@@ -2,11 +2,11 @@
   { 
 	"yemek_Id":1,
 	"yemek_adi":"Yemek Adı 1" ,
-	"Yemeka_aciklama":"Tarifin Detayları 1",
-	"Yemeka_tur":"Tür 1",
-	"Yemeka_pisirme_suresi":"Doe",
+	"Yemek_aciklama":"Tarifin Detayları 1",
+	"Yemek_tur":"Tür 1",
+	"Yemek_pisirme_suresi":"Doe",
 	"Yemek_hazirlama_suresi":"Doe",
-	"Yemeka_kisi_sayisi":"Doe",
+	"Yemek_kisi_sayisi":"Doe",
 	"Yemek_resim":"Doe",
 	"Yemek_malzemeler":"Doe"
 },
@@ -14,11 +14,11 @@
  { 
 	"yemek_Id":2,
 	"yemek_adi":"Yemek Adı 2" ,
-	"Yemeka_aciklama":"Tarifin Detayları 2",
-	"Yemeka_tur":"Tür 2",
-	"Yemeka_pisirme_suresi":"Doe",
+	"Yemek_aciklama":"Tarifin Detayları 2",
+	"Yemek_tur":"Tür 2",
+	"Yemek_pisirme_suresi":"Doe",
 	"Yemek_hazirlama_suresi":"Doe",
-	"Yemeka_kisi_sayisi":"Doe",
+	"Yemek_kisi_sayisi":"Doe",
 	"Yemek_resim":"Doe",
 	"Yemek_malzemeler":"Doe"
 },
@@ -26,11 +26,11 @@
  { 
 	"yemek_Id":3,
 	"yemek_adi":"Yemek Adı 3" ,
-	"Yemeka_aciklama":"Tarifin Detayları 3",
-	"Yemeka_tur":"Tür 3",
-	"Yemeka_pisirme_suresi":"Doe",
+	"Yemek_aciklama":"Tarifin Detayları 3",
+	"Yemek_tur":"Tür 3",
+	"Yemek_pisirme_suresi":"Doe",
 	"Yemek_hazirlama_suresi":"Doe",
-	"Yemeka_kisi_sayisi":"Doe",
+	"Yemek_kisi_sayisi":"Doe",
 	"Yemek_resim":"Doe",
 	"Yemek_malzemeler":"Doe"
 },
@@ -38,11 +38,11 @@
 { 
 	"yemek_Id":4,
 	"yemek_adi":"Yemek Adı 4" ,
-	"Yemeka_aciklama":"Tarifin Detayları 4",
-	"Yemeka_tur":"Tür 4",
-	"Yemeka_pisirme_suresi":"Doe",
+	"Yemek_aciklama":"Tarifin Detayları 4",
+	"Yemek_tur":"Tür 4",
+	"Yemek_pisirme_suresi":"Doe",
 	"Yemek_hazirlama_suresi":"Doe",
-	"Yemeka_kisi_sayisi":"Doe",
+	"Yemek_kisi_sayisi":"Doe",
 	"Yemek_resim":"Doe",
 	"Yemek_malzemeler":"Doe"
 },
@@ -50,15 +50,17 @@
 { 
 	"yemek_Id":5,
 	"yemek_adi":"Yemek Adı 5" ,
-	"Yemeka_aciklama":"Tarifin Detayları 5",
-	"Yemeka_tur":"Tür 5",
-	"Yemeka_pisirme_suresi":"Doe",
+	"Yemek_aciklama":"Tarifin Detayları 5",
+	"Yemek_tur":"Tür 5",
+	"Yemek_pisirme_suresi":"Doe",
 	"Yemek_hazirlama_suresi":"Doe",
-	"Yemeka_kisi_sayisi":"Doe",
+	"Yemek_kisi_sayisi":"Doe",
 	"Yemek_resim":"Doe",
 	"Yemek_malzemeler":"Doe"
 }
 
  
 ]}
+
+
 
