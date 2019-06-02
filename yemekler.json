@@ -1,0 +1,64 @@
+{"yemekler":[
+  { 
+	"yemekId":1,
+	"yemekAdi":"Yemek Adı 1" ,
+	"YemekAciklama":"Tarifin Detayları 1",
+	"YemekTur":"Tür 1",
+	"YemekPisirmeSuresi":"Doe",
+	"YemekHazirlamaSuresi":"Doe",
+	"YemekKisiSayisi":"Doe",
+	"YemekResim":"Doe",
+	"YemekMalzemeler":"Doe"
+},
+
+ { 
+	"yemekId":2,
+	"yemekAdi":"Yemek Adı 2" ,
+	"YemekAciklama":"Tarifin Detayları 2",
+	"YemekTur":"Tür 2",
+	"YemekPisirmeSuresi":"Doe",
+	"YemekHazirlamaSuresi":"Doe",
+	"YemekKisiSayisi":"Doe",
+	"YemekResim":"Doe",
+	"YemekMalzemeler":"Doe"
+},
+
+ { 
+	"yemekId":3,
+	"yemekAdi":"Yemek Adı 3" ,
+	"YemekAciklama":"Tarifin Detayları 3",
+	"YemekTur":"Tür 3",
+	"YemekPisirmeSuresi":"Doe",
+	"YemekHazirlamaSuresi":"Doe",
+	"YemekKisiSayisi":"Doe",
+	"YemekResim":"Doe",
+	"YemekMalzemeler":"Doe"
+},
+
+{ 
+	"yemekId":4,
+	"yemekAdi":"Yemek Adı 4" ,
+	"YemekAciklama":"Tarifin Detayları 4",
+	"YemekTur":"Tür 4",
+	"YemekPisirmeSuresi":"Doe",
+	"YemekHazirlamaSuresi":"Doe",
+	"YemekKisiSayisi":"Doe",
+	"YemekResim":"Doe",
+	"YemekMalzemeler":"Doe"
+},
+ 
+{ 
+	"yemekId":5,
+	"yemekAdi":"Yemek Adı 5" ,
+	"YemekAciklama":"Tarifin Detayları 5",
+	"YemekTur":"Tür 5",
+	"YemekPisirmeSuresi":"Doe",
+	"YemekHazirlamaSuresi":"Doe",
+	"YemekKisiSayisi":"Doe",
+	"YemekResim":"Doe",
+	"YemekMalzemeler":"Doe"
+}
+
+ 
+]}
+
