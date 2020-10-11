@@ -1,0 +1,64 @@
+{"yemekler":[
+  { 
+	"yemekId":1,
+	"yemekAdi":"Mercimek Çorbası" ,
+	"yemekAciklama":"Kırmızı mercimek çorbası için sıvı yağı tencereye alınarak yemeklik doğranan soğanlar hafif pembeleşinceye kadar kavrulur.Daha sonra un ilave edilerek kısık ateşte kavurmaya devam edilir.Salça kullanılacak ise salça ilave edilir, kavrulduktan sonra küp küp doğranmış havuç ve iyice yıkanıp suyu süzülen mercimekler ilave edilir.Üzerine 1 lt su eklenerek karıştırılır ve tencerenin kapağı kapatılır. Mercimekler ve havuçlar yumuşayana kadar kısık ateşte pişirilir.Çorba piştikten sonra el blenderı ile güzelce ezilir.Karabiber, tuz ve isteğe bağlı olarak kimyon eklenir.Kıvamı koyu gelirse size bir miktar su ilave edilerek bir taşım kaynatılır.Bu arada küçük bir tavaya iki yemek kaşığı tereyağı alınır, kızdırılır ve bir tatlı kaşığı kırmızı toz biber eklenerek ocaktan alınır.Mercimek çorbası servis kasesine alındıktan sonra üzerine kırmızı biberli sos gezdirilir ve bir dilim limon ile servis edilir.",
+	"yemekTur":"Çorbalar",
+	"yemekPisirmeSuresi":"15DK",
+	"yemekHazirlamaSuresi":"30DK",
+	"yemekKisiSayisi":"4",
+	"yemekResim":"https://iasbh.tmgrup.com.tr/93911e/812/467/0/2101/2848/3739?u=http://i.tmgrup.com.tr/sfr/2013/10/30/Orjinal/436976511478.jpg",
+	"yemekMalzemeler":"Beyin,göz,kol,internet,bilgisayar"
+},
+
+ { 
+	"yemekId":2,
+	"yemekAdi":"Yemek Adı 2" ,
+	"yemekAciklama":"Tarifin Detayları 2",
+	"yemekTur":"Tür 2",
+	"yemekPisirmeSuresi":"Doe",
+	"yemekHazirlamaSuresi":"Doe",
+	"yemekKisiSayisi":"Doe",
+	"yemekResim":"",
+	"yemekMalzemeler":"Doe"
+},
+
+ { 
+	"yemekId":3,
+	"yemekAdi":"Yemek Adı 3" ,
+	"yemekAciklama":"Tarifin Detayları 3",
+	"yemekTur":"Tür 3",
+	"yemekPisirmeSuresi":"Doe",
+	"yemekHazirlamaSuresi":"Doe",
+	"yemekKisiSayisi":"Doe",
+	"yemekResim":"Doe",
+	"yemekMalzemeler":"Doe"
+},
+
+{ 
+	"yemekId":4,
+	"yemekAdi":"Yemek Adı 4" ,
+	"yemekAciklama":"Tarifin Detayları 4",
+	"yemekTur":"Tür 4",
+	"yemekPisirmeSuresi":"Doe",
+	"yemekHazirlamaSuresi":"Doe",
+	"yemekKisiSayisi":"Doe",
+	"yemekResim":"Doe",
+	"yemekMalzemeler":"Doe"
+},
+ 
+{ 
+	"yemekId":5,
+	"yemekAdi":"Yemek Adı 5" ,
+	"yemekAciklama":"Tarifin Detayları 5",
+	"yemekTur":"Tür 5",
+	"yemekPisirmeSuresi":"Doe",
+	"yemekHazirlamaSuresi":"Doe",
+	"yemekKisiSayisi":"Doe",
+	"yemekResim":"Doe",
+	"yemekMalzemeler":"Doe"
+}
+
+ 
+]}
+
